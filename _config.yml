@@ -9,6 +9,9 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
+  - jekyll-mentions
 
 title: "O'Reilly GitHub Demo"
 theme: jekyll-theme-hacker
+encoding: utf-8

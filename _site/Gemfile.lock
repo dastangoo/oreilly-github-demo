@@ -196,8 +196,10 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed
+  jekyll-mentions
   jekyll-redirect-from
   jekyll-sitemap
+  jemoji
 
 BUNDLED WITH
    1.14.6

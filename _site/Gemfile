@@ -5,3 +5,5 @@ gem "github-pages"
 gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 gem 'jekyll-redirect-from'
+gem 'jemoji'
+gem 'jekyll-mentions'
