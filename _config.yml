@@ -1,1 +1,9 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "main"
+
+title: "O'Reilly GitHub Demo"
 theme: jekyll-theme-hacker
