@@ -5,5 +5,7 @@ defaults:
     values:
       layout: "main"
 
+gems:
+  - jekyll-sitemap
 title: "O'Reilly GitHub Demo"
 theme: jekyll-theme-hacker
