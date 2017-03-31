@@ -8,5 +8,7 @@ defaults:
 gems:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
+
 title: "O'Reilly GitHub Demo"
 theme: jekyll-theme-hacker
